@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/maternity/layout,_N_T_/maternity/page,_N_T_/maternity"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/maternity/__PAGE__",
+    "/maternity",
+    "/_index",
+    "/_head"
+  ]
+}

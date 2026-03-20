@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/mortgage/layout,_N_T_/mortgage/page,_N_T_/mortgage"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/mortgage/__PAGE__",
+    "/mortgage",
+    "/_index",
+    "/_head"
+  ]
+}

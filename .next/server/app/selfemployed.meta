@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/selfemployed/layout,_N_T_/selfemployed/page,_N_T_/selfemployed"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/selfemployed/__PAGE__",
+    "/selfemployed",
+    "/_index",
+    "/_head"
+  ]
+}

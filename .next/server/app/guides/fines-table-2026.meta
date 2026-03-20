@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/guides/layout,_N_T_/guides/fines-table-2026/layout,_N_T_/guides/fines-table-2026/page,_N_T_/guides/fines-table-2026"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/guides/fines-table-2026/__PAGE__",
+    "/guides/fines-table-2026",
+    "/guides",
+    "/_index",
+    "/_head"
+  ]
+}

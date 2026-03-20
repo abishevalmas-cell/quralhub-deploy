@@ -1,0 +1,1192 @@
+{
+  "meta": {
+    "version": 4,
+    "generatedAt": "2026-03-17T02:21:33.881Z"
+  },
+  "NB_RATES": {
+    "usd": 486.2,
+    "eur": 557.82,
+    "rub": 6,
+    "cny": 70.51,
+    "updatedAt": "2026-03-17T02:21:35.169Z",
+    "source": "nationalbank.kz"
+  },
+  "EXCHANGE_OFFICES": {
+    "updatedAt": "2026-03-17T02:21:37.633Z",
+    "source": "kurs.kz",
+    "data": {
+      "Алматы": [
+        {
+          "name": "YES EXCHANGE №1 (ТОО Сервис)",
+          "lat": 43.346622,
+          "lng": 77.012102,
+          "address": "ул. Майлина, 1, Пассажирский терминал  \"Международный Аэропорт г. Алматы\", 1 этаж",
+          "phone": "+7 (777) 891-33-66",
+          "usd": {
+            "buy": 480,
+            "sell": 487
+          },
+          "eur": {
+            "buy": 550,
+            "sell": 560
+          },
+          "rub": {
+            "buy": 5.3,
+            "sell": 6.5
+          },
+          "cny": {
+            "buy": 68,
+            "sell": 77
+          }
+        }
+      ],
+      "Астана": [
+        {
+          "name": "Exchange Market 4 (ТОО \"NurlyZhol Exchange\")",
+          "lat": 51.112411,
+          "lng": 71.531777,
+          "address": "р-н Алматы, ул. Мұхамеджан Тынышбайұлы, 8, новый вокзал \"Нұрлы Жол\"",
+          "phone": "+7 (7172) 25-23-45",
+          "usd": {
+            "buy": 484,
+            "sell": 491
+          },
+          "eur": {
+            "buy": 552,
+            "sell": 562
+          },
+          "rub": {
+            "buy": 5.9,
+            "sell": 6.4
+          },
+          "cny": {
+            "buy": 71,
+            "sell": 74.5
+          }
+        },
+        {
+          "name": "SILK WAY ВАЛЮТА АЙЫРБАСТАУ №4 , Аэропорт \"Нурсултан Назарбаев\"",
+          "lat": 51.026987,
+          "lng": 71.460909,
+          "address": "Т-1, пр. Кабанбай батыра, 119, Аэропорт \"Нурсултан Назарбаев\"",
+          "phone": "+7 (701) 714-39-99",
+          "usd": {
+            "buy": 483,
+            "sell": 488
+          },
+          "eur": {
+            "buy": 552,
+            "sell": 562
+          },
+          "rub": {
+            "buy": 5.9,
+            "sell": 6.2
+          },
+          "cny": {
+            "buy": 73.5,
+            "sell": 77
+          }
+        }
+      ],
+      "Қарағанды": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Семей": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Қостанай": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Атырау": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Тараз": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Өскемен": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Ақтау": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ],
+      "Түркістан": [
+        {
+          "name": "ОАО \"Оптима Банк\"",
+          "lat": 42.8836483,
+          "lng": 74.5938662,
+          "address": "пр. Жибек Жолу, 493",
+          "phone": "(312) 905959",
+          "usd": {
+            "buy": 87.3,
+            "sell": 87.7
+          },
+          "eur": {
+            "buy": 100,
+            "sell": 101
+          },
+          "rub": {
+            "buy": 1.065,
+            "sell": 1.095
+          }
+        }
+      ]
+    }
+  },
+  "BNK": {
+    "updatedAt": "2026-03-15T10:43:41.826Z",
+    "source": "manual",
+    "data": [
+      {
+        "n": "Eurasian Bank",
+        "s": "EB",
+        "c": "#1E3A5F",
+        "logo": "https://www.google.com/s2/favicons?domain=eubank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Turbo Deposit",
+            "r": 18.5,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          },
+          {
+            "p": "Turbo 12м",
+            "r": 14.8,
+            "g": 15.9,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Без залога",
+            "tp": "consumer",
+            "r": 21.9,
+            "mx": 7000000,
+            "mt": 60
+          }
+        ]
+      },
+      {
+        "n": "ForteBank",
+        "s": "FB",
+        "c": "#E31837",
+        "logo": "https://www.google.com/s2/favicons?domain=fortebank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Сберегательный",
+            "r": 18.4,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 100000,
+            "cap": "ежемесячная",
+            "top": 0
+          },
+          {
+            "p": "Гибкий",
+            "r": 13,
+            "g": 13.8,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Наличными",
+            "tp": "consumer",
+            "r": 22.5,
+            "mx": 10000000,
+            "mt": 60
+          },
+          {
+            "p": "Ипотека",
+            "tp": "mortgage",
+            "r": 18,
+            "mx": 50000000,
+            "mt": 240
+          }
+        ]
+      },
+      {
+        "n": "Kaspi Bank",
+        "s": "KB",
+        "c": "#F14635",
+        "logo": "https://www.google.com/s2/favicons?domain=kaspi.kz&sz=64",
+        "dep": [
+          {
+            "p": "Kaspi Депозит",
+            "r": 18.4,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 100000,
+            "cap": "ежемесячная",
+            "top": 1
+          },
+          {
+            "p": "Гибкий",
+            "r": 14.1,
+            "g": 15,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Kaspi Несие",
+            "tp": "consumer",
+            "r": 20.9,
+            "mx": 7000000,
+            "mt": 48
+          },
+          {
+            "p": "Kaspi Авто",
+            "tp": "auto",
+            "r": 15,
+            "mx": 20000000,
+            "mt": 84
+          }
+        ]
+      },
+      {
+        "n": "Halyk Bank",
+        "s": "HB",
+        "c": "#00A859",
+        "logo": "https://www.google.com/s2/favicons?domain=halykbank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Максимальный",
+            "r": 15.85,
+            "g": 17.3,
+            "t": [
+              3
+            ],
+            "tp": "save",
+            "min": 15000,
+            "cap": "ежемесячная",
+            "top": 0
+          },
+          {
+            "p": "Универсальный",
+            "r": 13.7,
+            "g": 14.8,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Потреб онлайн",
+            "tp": "consumer",
+            "r": 19.5,
+            "mx": 15000000,
+            "mt": 60
+          },
+          {
+            "p": "Ипотека",
+            "tp": "mortgage",
+            "r": 16,
+            "mx": 80000000,
+            "mt": 240
+          }
+        ]
+      },
+      {
+        "n": "БЦК",
+        "s": "БЦК",
+        "c": "#003DA5",
+        "logo": "https://www.google.com/s2/favicons?domain=bcc.kz&sz=64",
+        "dep": [
+          {
+            "p": "Моя цель",
+            "r": 18.4,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 1,
+            "cap": "ежемесячная",
+            "top": 1
+          },
+          {
+            "p": "Рахмет",
+            "r": 16.5,
+            "g": 17.8,
+            "t": [
+              3
+            ],
+            "tp": "save",
+            "min": 500000,
+            "cap": "ежемесячная",
+            "top": 0
+          },
+          {
+            "p": "Гибкий",
+            "r": 13.2,
+            "g": 14,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "БЦК Online",
+            "tp": "consumer",
+            "r": 21,
+            "mx": 10000000,
+            "mt": 60
+          },
+          {
+            "p": "Ипотека",
+            "tp": "mortgage",
+            "r": 17,
+            "mx": 60000000,
+            "mt": 240
+          }
+        ]
+      },
+      {
+        "n": "Bereke Bank",
+        "s": "BB",
+        "c": "#2B6CB0",
+        "logo": "https://www.google.com/s2/favicons?domain=berekebank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Bereke депозит",
+            "r": 18.34,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 5000000,
+            "cap": "ежедневная",
+            "top": 1
+          },
+          {
+            "p": "Кун Сайын",
+            "r": 15.8,
+            "g": 17,
+            "t": [
+              6
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          },
+          {
+            "p": "Гибкий 12м",
+            "r": 14.8,
+            "g": 15.9,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Без залога",
+            "tp": "consumer",
+            "r": 19,
+            "mx": 8000000,
+            "mt": 60
+          }
+        ]
+      },
+      {
+        "n": "Home Credit",
+        "s": "HC",
+        "c": "#E4002B",
+        "logo": "https://www.google.com/s2/favicons?domain=homecredit.kz&sz=64",
+        "dep": [
+          {
+            "p": "Хоум+",
+            "r": 18.23,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          },
+          {
+            "p": "Гибкий",
+            "r": 14.5,
+            "g": 15.9,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежедневная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Наличными",
+            "tp": "consumer",
+            "r": 23.9,
+            "mx": 5000000,
+            "mt": 60
+          }
+        ]
+      },
+      {
+        "n": "Bank RBK",
+        "s": "RBK",
+        "c": "#1B4F72",
+        "logo": "https://www.google.com/s2/favicons?domain=bankrbk.kz&sz=64",
+        "dep": [
+          {
+            "p": "DREAM",
+            "r": 18.4,
+            "g": 20,
+            "t": [
+              3,
+              6
+            ],
+            "tp": "save",
+            "min": 15000,
+            "cap": "ежемесячная",
+            "top": 1
+          },
+          {
+            "p": "Гибкий",
+            "r": 13.5,
+            "g": 14,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "RBK Online",
+            "tp": "consumer",
+            "r": 22,
+            "mx": 7000000,
+            "mt": 48
+          }
+        ]
+      },
+      {
+        "n": "Freedom Bank",
+        "s": "FR",
+        "c": "#2D2D7F",
+        "logo": "https://www.google.com/s2/favicons?domain=freedomfinance.kz&sz=64",
+        "dep": [
+          {
+            "p": "Freedom Deposit",
+            "r": 18,
+            "g": 20,
+            "t": [
+              3
+            ],
+            "tp": "save",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 0
+          },
+          {
+            "p": "Копилка",
+            "r": 15.5,
+            "g": 16.7,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 500,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Freedom Online",
+            "tp": "consumer",
+            "r": 24,
+            "mx": 5000000,
+            "mt": 48
+          }
+        ]
+      },
+      {
+        "n": "Altyn Bank",
+        "s": "AB",
+        "c": "#C8971D",
+        "logo": "https://www.google.com/s2/favicons?domain=altynbank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Резерв",
+            "r": 14.8,
+            "g": 16,
+            "t": [
+              12
+            ],
+            "tp": "save",
+            "min": 10000,
+            "cap": "ежемесячная",
+            "top": 0
+          }
+        ],
+        "cred": [
+          {
+            "p": "Потреб",
+            "tp": "consumer",
+            "r": 20.5,
+            "mx": 10000000,
+            "mt": 60
+          }
+        ]
+      },
+      {
+        "n": "KZI Bank",
+        "s": "KZI",
+        "c": "#0E7C86",
+        "logo": "https://www.google.com/s2/favicons?domain=kzi.kz&sz=64",
+        "dep": [
+          {
+            "p": "KZI Депозит",
+            "r": 15.5,
+            "g": 16.9,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "KZI Несие",
+            "tp": "consumer",
+            "r": 23,
+            "mx": 3000000,
+            "mt": 36
+          }
+        ]
+      },
+      {
+        "n": "Нурбанк",
+        "s": "НБ",
+        "c": "#003876",
+        "logo": "https://www.google.com/s2/favicons?domain=nurbank.kz&sz=64",
+        "dep": [
+          {
+            "p": "Депозит",
+            "r": 14.5,
+            "g": 15.9,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Потреб",
+            "tp": "consumer",
+            "r": 22,
+            "mx": 5000000,
+            "mt": 48
+          }
+        ]
+      },
+      {
+        "n": "Отбасы банк",
+        "s": "ОБ",
+        "c": "#00569E",
+        "logo": "https://www.google.com/s2/favicons?domain=hcsbk.kz&sz=64",
+        "dep": [
+          {
+            "p": "Отбасы",
+            "r": 12,
+            "g": 12.7,
+            "t": [
+              12
+            ],
+            "tp": "save",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Ипотека",
+            "tp": "mortgage",
+            "r": 5,
+            "mx": 80000000,
+            "mt": 300
+          }
+        ]
+      },
+      {
+        "n": "Jusan Bank",
+        "s": "JB",
+        "c": "#FF6600",
+        "logo": "https://www.google.com/s2/favicons?domain=jusan.kz&sz=64",
+        "dep": [
+          {
+            "p": "Jusan",
+            "r": 13,
+            "g": 13.8,
+            "t": [
+              12
+            ],
+            "tp": "flex",
+            "min": 1000,
+            "cap": "ежемесячная",
+            "top": 1
+          }
+        ],
+        "cred": [
+          {
+            "p": "Jusan Онлайн",
+            "tp": "consumer",
+            "r": 21.5,
+            "mx": 7000000,
+            "mt": 60
+          }
+        ]
+      }
+    ]
+  },
+  "TELECOM": {
+    "updatedAt": "2026-03-15T10:43:41.826Z",
+    "source": "operator sites",
+    "data": [
+      {
+        "operator": "IZI",
+        "plan": "Ultra",
+        "price": 2690,
+        "gb": 30,
+        "min": 100,
+        "tier": "budget"
+      },
+      {
+        "operator": "Tele2",
+        "plan": "Тек қоңырау",
+        "price": 2390,
+        "gb": 0,
+        "min": 100,
+        "tier": "budget"
+      },
+      {
+        "operator": "Altel",
+        "plan": "Еркін",
+        "price": 3490,
+        "gb": 20,
+        "min": 100,
+        "tier": "budget"
+      },
+      {
+        "operator": "Activ",
+        "plan": "Жақсылық S",
+        "price": 3990,
+        "gb": 15,
+        "min": 150,
+        "tier": "budget"
+      },
+      {
+        "operator": "Altel",
+        "plan": "Еркін+",
+        "price": 5490,
+        "gb": 35,
+        "min": 200,
+        "tier": "mid"
+      },
+      {
+        "operator": "Activ",
+        "plan": "Лучше",
+        "price": 5590,
+        "gb": 40,
+        "min": 200,
+        "tier": "mid"
+      },
+      {
+        "operator": "Kcell",
+        "plan": "HIT",
+        "price": 5999,
+        "gb": 25,
+        "min": 300,
+        "tier": "mid"
+      },
+      {
+        "operator": "Beeline",
+        "plan": "Мега",
+        "price": 5999,
+        "gb": 20,
+        "min": 100,
+        "tier": "mid"
+      },
+      {
+        "operator": "Tele2",
+        "plan": "Выгодный Pro",
+        "price": 6590,
+        "gb": 40,
+        "min": 250,
+        "tier": "mid"
+      },
+      {
+        "operator": "Beeline",
+        "plan": "Мега+",
+        "price": 7999,
+        "gb": 50,
+        "min": 200,
+        "tier": "prem"
+      },
+      {
+        "operator": "Altel",
+        "plan": "Арнау",
+        "price": 8690,
+        "gb": -1,
+        "min": 0,
+        "tier": "prem"
+      },
+      {
+        "operator": "Tele2",
+        "plan": "Unlim",
+        "price": 9192,
+        "gb": -1,
+        "min": 350,
+        "tier": "prem"
+      }
+    ]
+  },
+  "ISP_DATA": {
+    "updatedAt": "2026-03-15T10:43:41.826Z",
+    "source": "manual",
+    "data": [
+      {
+        "n": "Beeline",
+        "c": "#FFCC00",
+        "tc": "#000",
+        "plans": [
+          {
+            "name": "Хит 100",
+            "speed": 100,
+            "price": 4490,
+            "tv": 0,
+            "tier": "budget"
+          },
+          {
+            "name": "Хит 300",
+            "speed": 300,
+            "price": 5990,
+            "tv": 80,
+            "tier": "mid"
+          },
+          {
+            "name": "Хит 500",
+            "speed": 500,
+            "price": 7490,
+            "tv": 150,
+            "tier": "premium"
+          },
+          {
+            "name": "Хит 1000",
+            "speed": 1000,
+            "price": 9990,
+            "tv": 200,
+            "tier": "premium"
+          }
+        ]
+      },
+      {
+        "n": "Kazakhtelecom",
+        "c": "#003DA5",
+        "tc": "#fff",
+        "plans": [
+          {
+            "name": "iD Net 100",
+            "speed": 100,
+            "price": 3990,
+            "tv": 0,
+            "tier": "budget"
+          },
+          {
+            "name": "iD Net 300",
+            "speed": 300,
+            "price": 5490,
+            "tv": 100,
+            "tier": "mid"
+          },
+          {
+            "name": "iD TV+Net 500",
+            "speed": 500,
+            "price": 7990,
+            "tv": 200,
+            "tier": "premium"
+          }
+        ]
+      },
+      {
+        "n": "Tele2 Home",
+        "c": "#1F2340",
+        "tc": "#fff",
+        "plans": [
+          {
+            "name": "Базовый",
+            "speed": 100,
+            "price": 3790,
+            "tv": 0,
+            "tier": "budget"
+          },
+          {
+            "name": "Оптимальный",
+            "speed": 200,
+            "price": 4990,
+            "tv": 60,
+            "tier": "mid"
+          },
+          {
+            "name": "Максимальный",
+            "speed": 500,
+            "price": 6990,
+            "tv": 120,
+            "tier": "mid"
+          }
+        ]
+      },
+      {
+        "n": "Alma TV",
+        "c": "#E31837",
+        "tc": "#fff",
+        "plans": [
+          {
+            "name": "Старт",
+            "speed": 50,
+            "price": 3290,
+            "tv": 90,
+            "tier": "budget"
+          },
+          {
+            "name": "Оптимал",
+            "speed": 100,
+            "price": 4790,
+            "tv": 180,
+            "tier": "mid"
+          },
+          {
+            "name": "Премиум",
+            "speed": 300,
+            "price": 7290,
+            "tv": 250,
+            "tier": "premium"
+          }
+        ]
+      },
+      {
+        "n": "Kcell Home",
+        "c": "#660099",
+        "tc": "#fff",
+        "plans": [
+          {
+            "name": "Home 100",
+            "speed": 100,
+            "price": 4290,
+            "tv": 0,
+            "tier": "budget"
+          },
+          {
+            "name": "Home 500",
+            "speed": 500,
+            "price": 6990,
+            "tv": 0,
+            "tier": "mid"
+          }
+        ]
+      },
+      {
+        "n": "iDNet (Нұр-Сұлтан)",
+        "c": "#00A859",
+        "tc": "#fff",
+        "plans": [
+          {
+            "name": "Базовый",
+            "speed": 100,
+            "price": 3490,
+            "tv": 0,
+            "tier": "budget"
+          },
+          {
+            "name": "Стандарт",
+            "speed": 300,
+            "price": 5290,
+            "tv": 80,
+            "tier": "mid"
+          },
+          {
+            "name": "Максимум",
+            "speed": 1000,
+            "price": 8990,
+            "tv": 200,
+            "tier": "premium"
+          }
+        ]
+      }
+    ]
+  },
+  "CM_TARIFFS": {
+    "updatedAt": "2026-03-15T10:43:41.826Z",
+    "source": "manual (official tariff sites)",
+    "data": {
+      "Алматы": {
+        "el": 25.8,
+        "cw": 91,
+        "hw": 430,
+        "gas": 25.5,
+        "heat": 87.5,
+        "src": "АлматыЭнергоСбыт, Алматы Су"
+      },
+      "Астана": {
+        "el": 22.8,
+        "cw": 105,
+        "hw": 520,
+        "gas": null,
+        "heat": 109,
+        "src": "Астана-ЭнергоСбыт, Астана Су"
+      },
+      "Шымкент": {
+        "el": 23.5,
+        "cw": 78,
+        "hw": 380,
+        "gas": 22,
+        "heat": 75,
+        "src": "Оңтүстік Жарық, ШымкентСу"
+      },
+      "Қарағанды": {
+        "el": 24.2,
+        "cw": 85,
+        "hw": 450,
+        "gas": 27,
+        "heat": 95,
+        "src": "КРЭК, Қарағанды Су"
+      },
+      "Ақтау": {
+        "el": 20.5,
+        "cw": 310,
+        "hw": 580,
+        "gas": null,
+        "heat": 110,
+        "src": "МАЭК, ҚазТрансОйл"
+      },
+      "Ақтөбе": {
+        "el": 23,
+        "cw": 88,
+        "hw": 410,
+        "gas": 24,
+        "heat": 85,
+        "src": "Батыс ЭнергоСбыт"
+      },
+      "Павлодар": {
+        "el": 19.5,
+        "cw": 72,
+        "hw": 390,
+        "gas": 23,
+        "heat": 80,
+        "src": "ПЭСК, Павлодар Су"
+      },
+      "Семей": {
+        "el": 21,
+        "cw": 80,
+        "hw": 400,
+        "gas": 24.5,
+        "heat": 82,
+        "src": "Семей Энергосбыт"
+      }
+    }
+  },
+  "TAX": {
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "source": "government decree Law №214-VIII",
+    "MRP": 4325,
+    "MZP": 85000
+  }
+}

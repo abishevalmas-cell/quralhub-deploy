@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/propisyu/layout,_N_T_/propisyu/page,_N_T_/propisyu"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/propisyu/__PAGE__",
+    "/propisyu",
+    "/_index",
+    "/_head"
+  ]
+}

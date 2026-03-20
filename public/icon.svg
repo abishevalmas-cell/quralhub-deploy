@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="qg" x1="128" y1="118" x2="440" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B8A6B"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="hubGlow" cx="414" cy="404" r="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#0A0A0A"/>
+  <!-- Subtle ambient glow -->
+  <circle cx="260" cy="244" r="170" fill="#0B8A6B" opacity="0.05"/>
+  <!-- Q ring -->
+  <circle cx="234" cy="224" r="110" stroke="url(#qg)" stroke-width="36" fill="none"/>
+  <!-- Q tail -->
+  <line x1="312" y1="302" x2="414" y2="404" stroke="url(#qg)" stroke-width="36" stroke-linecap="round"/>
+  <!-- Hub glow -->
+  <circle cx="414" cy="404" r="36" fill="url(#hubGlow)"/>
+  <!-- Hub node -->
+  <circle cx="414" cy="404" r="17" fill="#34D399"/>
+  <circle cx="414" cy="404" r="6" fill="#ffffff"/>
+  <!-- Orbital accent nodes -->
+  <circle cx="234" cy="96" r="8" fill="#34D399" opacity="0.45"/>
+  <circle cx="106" cy="224" r="8" fill="#34D399" opacity="0.45"/>
+  <circle cx="356" cy="138" r="6" fill="#34D399" opacity="0.3"/>
+  <circle cx="148" cy="348" r="6" fill="#34D399" opacity="0.3"/>
+</svg>
